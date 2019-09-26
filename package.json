@@ -4,7 +4,7 @@
   "description": "Part two of Week 4 Class",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "repository": {
     "type": "git",
